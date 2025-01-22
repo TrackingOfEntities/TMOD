@@ -1,0 +1,17 @@
+*.bridgesort
+*.Bridgesort
+*.Bridge*
+*.bridge*
+
+*.BridgeLabelsAndRatings
+
+*.ini
+*.pyc
+
+*-lock.json
+
+*.zip
+
+.vscode/*
+.idea/*
+.pytest_cache/*
