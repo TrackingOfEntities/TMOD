@@ -31,4 +31,16 @@
 <ymax>683</ymax>
 </bndbox>
 </object>
+<object>
+<name>Cattle</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>568</xmin>
+<ymin>0</ymin>
+<xmax>748</xmax>
+<ymax>219</ymax>
+</bndbox>
+</object>
 </annotation>
