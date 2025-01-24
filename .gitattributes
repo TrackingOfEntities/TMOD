@@ -14,10 +14,12 @@
 
 # Image files
 *.jpg binary diff=exif
-*.jpeg binary diff=exif
+*.jpeg binary diff=exi
 
 *.bmp binary diff=bmp 
 *.ttf binary diff=ttf
+
+*.png binary diff=png
 
 # Git attributes
 .gitignore text eol=lf diff=gitignore export-ignore
