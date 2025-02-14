@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Cattle"
+    },
+    {
+      "id": 1,
+      "name": "Dog"
+    },
+    {
+      "id": 2,
+      "name": "Eagle"
+    },
+    {
+      "id": 3,
+      "name": "Humanoid"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
